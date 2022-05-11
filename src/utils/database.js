@@ -1,0 +1,1 @@
+export const URL_API = 'https://console.firebase.google.com/u/0/project/facundapp-c2af9/database/facundapp-c2af9-default-rtdb/data/~2F';
